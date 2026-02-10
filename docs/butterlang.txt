@@ -1,0 +1,98 @@
+Silver yellow plum gold, jet plum gold kiwi gold plum orange, lavender yellow lavender gold, yellow kiwi, jet gold lavender lavender gold plum, yellow kiwi, silver yellow lavender emerald yellow lavender, jet silver quartz orange, lavender quartz plum orange gold orange, orange yellow lavender turquoise, jet silver quartz orange, orange yellow, yellow lavender.
+
+Turquoise plum yellow quartz lavender emerald gold emerald silver burgundy, mauve quartz emerald turquoise gold emerald
+
+Yellow quartz plum orange gold silver kiwi, orange gold gold orange, violet quartz turquoise gold, yellow silver emerald, mauve quartz lavender turquoise silver gold, orange violet plum quartz azure azure gold plum burgundy, kiwi quartz lavender turquoise quartz orange, silver yellow turquoise orange, jet quartz emerald emerald silver gold orange, orange gold gold emerald kiwi silver quartz kiwi kiwi
+
+Gold turquoise turquoise orange, azure plum yellow yellow emerald orange, jet plum yellow turquoise gold lavender burgundy
+
+Kiwi plum yellow turquoise orange, gold gold silver orange, azure gold gold orange, silver yellow quartz orange gold orange, turquoise gold gold orange gold, turquoise quartz silver silver orange, turquoise plum yellow quartz orange gold orange, kiwi yellow copper gold orange, orange violet gold gold jet, violet gold emerald turquoise gold violet yellow turquoise orange, violet yellow plum orange gold orange, yellow copper gold lavender, azure quartz silver silver orange, emerald gold gold plum
+
+Orange violet gold gold plum, yellow emerald emerald lavender gold orange orange
+
+Azure silver yellow yellow emerald burgundy, violet gold silver silver
+
+Orange violet gold emerald, yellow kiwi, burgundy yellow quartz, yellow quartz plum orange gold silver kiwi orange, azure gold, violet yellow azure azure silver gold emerald.
+
+Wine gold plum yellow, jet silver quartz orange, lavender yellow lavender wine gold plum yellow gold orange, orange jet gold silver silver gold emerald, emerald yellow, violet yellow quartz orange gold, azure gold gold orange, emerald gold gold orange, gold kiwi kiwi orange, jet silver quartz orange, orange yellow, yellow lavender!
+
+Yellow quartz plum orange gold silver kiwi, jet plum yellow jet yellow orange gold emerald, orange yellow, azure gold kiwi yellow plum gold, violet gold plum!
+
+Yellow quartz plum orange gold silver kiwi orange, orange quartz kiwi kiwi gold plum gold emerald, azure gold silver silver burgundy kiwi quartz silver orange, yellow kiwi, emerald yellow silver yellow plum
+
+Burgundy yellow quartz, jet yellow lavender emerald gold plum, jet plum yellow kiwi yellow quartz lavender emerald silver burgundy, orange quartz plum gold, gold lavender yellow quartz turquoise violet
+
+Burgundy yellow quartz, gold copper jet plum gold orange orange, burgundy yellow quartz plum orange gold silver kiwi, orange quartz jet gold plum azure silver burgundy.
+
+Navy gold, kiwi gold gold silver, quartz lavender navy gold silver silver
+
+Lavender gold plum yellow, jet silver quartz orange, mauve quartz lavender yellow, orange jet gold silver silver gold emerald, yellow lavender gold, kiwi yellow quartz plum, yellow lavender gold, emerald yellow wine gold lavender, yellow lavender gold, violet quartz lavender emerald plum gold emerald, stammered the butterflies periphrastically. Orange jet gold silver silver gold emerald, navy violet yellow silver gold, turquoise plum yellow quartz jet, yellow kiwi, yellow emerald emerald, jet silver quartz orange, lavender yellow lavender yellow emerald emerald, lavender yellow lavender wine gold plum yellow gold orange.
+
+Kiwi yellow quartz plum,
+
+Jet plum yellow jet gold plum silver burgundy, jet gold plum jet silver gold copper kiwi quartz silver
+
+Navy gold, violet heliotrope plum azure yellow plum, violet yellow plum emerald gold orange, yellow kiwi, orange ruby quartz heliotrope silver silver burgundy, orange ruby quartz heliotrope azure azure silver gold plum orange, burgundy gold orange, Yellow kiwi kiwi, heliotrope lavender emerald, yellow lavender, heliotrope lavender burgundy navy heliotrope burgundy.
+
+Yellow quartz plum, zucchini gold plum burgundy, yellow navy lavender, ruby quartz gold plum burgundy
+
+Violet yellow navy, jet plum yellow turquoise plum gold orange orange, lavender yellow navy
+
+Jet plum yellow lavender yellow quartz lavender, navy violet yellow, kiwi yellow plum gold plum quartz lavender orange, mauve
+
+Gold lavender emerald orange, heliotrope lavender emerald, orange indigo heliotrope plum indigo orange, yellow kiwi, orange gold lavender indigo gold lavender ultramarine gold orange, jet gold plum violet heliotrope jet orange.
+
+gold, xanthene, wine, turquoise, mauve, silver, plum, violet, heliotrope, ultramarine, navy, smoky quartz, yellow, kiwi, jet, orange, zucchini, copper, ruby, azure, lavender, burgundy, indigo, emerald, daffodil, fuchsia. 
+
+violet gold silver silver yellow, navy gold silver ultramarine yellow xanthene gold. 
+  h      e    l       l      o     w     e    l       c           o        m      e
+
+Xanthene burgundy, lavender heliotrope xanthene gold, daffodil orange, kiwi silver quartz emerald emerald gold plum azure gold gold
+    m        y         n        a         m       e      i        s      f     l      u      d       d      e    r          e    e
+
+Emerald daffodil emerald, indigo violet gold burgundy, orange heliotrope burgundy, turquoise yellow yellow emerald, heliotrope indigo, jet quartz wine wine silver gold orange? 
+   d        i      d        t      h     e      y        s        a        y           g       o      o       d        a          t            u               l     e    s
+
+
+Ultramarine heliotrope lavender, indigo violet gold burgundy, yellow jet gold lavender, indigo violet gold, jet quartz wine wine silver gold, emerald yellow yellow plum
+      c          a        n          t     h     e      y        o    p    e     n        t      h     e     p    u                l      e      d      o      o      r     
+
+
+Orange indigo yellow jet, kiwi daffodil turquoise violet indigo daffodil lavender turquoise
+   s      t      o     p   f      i         g       h      t       i        n         g
+
+Lavender yellow indigo, violet quartz lavender turquoise plum burgundy // not hungry!
+
+const BUTTERLANG = {
+    lavender: 'n',
+    yellow: 'o',
+    indigo: 't',
+    violet: 'h',
+    quartz: 'u',
+    turquoise: 'g',
+    plum: 'r',
+    burgundy: 'y',
+    ultramarine: 'c',
+    heliotrope: 'a',
+    orange: 's',
+    gold: 'e',
+    silver: 'l',
+    navy: 'w',
+    xanthene: 'm',
+    daffodil: 'i',
+    emerald: 'd',
+    jet: 'p',
+    wine: 'z', // ?
+    kiwi: 'f',
+    azure: 'b',
+    copper: 'x',
+    fuchsia: 'k',
+    zucchini: 'v',
+    ruby: 'q',
+    mauve: 'j',
+}
+
+Yellow quartz ultramarine violet! Indigo violet heliotrope indigo, violet quartz plum indigo orange!
+   o      u        c       h        t      h         a        t       h       u      r   t      s
+
+gold, xanthene, wine, turquoise, mauve, silver, plum, violet, heliotrope, ultramarine, navy, smoky quartz, yellow, kiwi, jet, orange, zucchini, copper, ruby, azure, lavender, burgundy, indigo, emerald, daffodil, fuchsia

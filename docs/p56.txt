@@ -1,0 +1,46 @@
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6
+p o e                                             x
+
+b -> i = c
+i -> k = u
+k -> e = b
+
+f -> i = l
+i -> r = a
+r -> e = d
+
+p -> e = o = 2 ... no shit
+e -> n = f
+
+h -> a = o = 2
+a -> i = o = 2
+i -> l = f
+
+b -> o = a
+o -> o = x = 26 
+
+g -> a = r
+a -> w = u
+w -> p = b
+
+u -> r = d
+r -> n = o = 2
+
+s -> i = t
+i -> r = a
+r -> e = d
+
+j -> a = b
+a -> m = e
+
+h -> i = h
+i -> s = e
+
+i -> v = m
+v -> y = e = 3
+
+y -> e = m
+e -> t = y
+
+solved meanwhile on the paper

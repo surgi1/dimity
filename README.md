@@ -1,0 +1,32 @@
+> I love to stack things into piles,
+> 
+> Provoking, from observers, smiles.
+> 
+> I pile up coins and logs and things;
+> 
+> I pile up books and chicken wings;
+> 
+> I've piled up plates, toys, sand, and cups;
+> 
+> I've piled up piles and piled up ups!
+> 
+> I like to pile all sorts of stuff;
+> 
+> Of piling I can't get enough!
+> 
+> I like to pile things very high,
+> 
+> To forehead-height or height of sky.
+> 
+> By preference I'll pile up tall,
+> 
+> But will, if need requires, pile small.
+> 
+> Some piles, of course, are others' betters;
+>
+> My favorite piles are piles of letters.
+
+
+## My solution to *Dimity Jones in Puzzle Castle* by *Obnakwa*
+
+Get the game [here](https://obnakwa.itch.io/dimityjones).

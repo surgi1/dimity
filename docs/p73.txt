@@ -1,0 +1,287 @@
+This story takes place on a certain date in the fall, when the air is sweet and dead leaves are nine deep on the ground.
+
+A bear and a duck decide to visit a country club.
+
+The bear drives; she likes to toot the horn.
+
+They park in the big lot.
+
+"Do we have reservations?" the duck asks.
+
+"Of course we do," says the bear.
+
+The mean, close, stingy duck says, "I forgot my wallet." He says, "I don't even have a single buck."
+
+"That will be okay," says the bear. "It's on me."
+
+They play the back nine of the golf course.
+
+"What time is it?" asks the duck, who likes golf a little, but not a lot.
+
+"It's just one."
+
+"Your watch is not wound," the duck observes.
+
+"The battery is dead," the bear remembers. "I forgot to charge it."
+
+They visit the buffet, then the casino.
+
+"Follow my lead," says the duck.
+
+They roll the die. The bear, who breaks even, does well: she does better than the duck, who strikes out. "What a let-down!" he says, sorry for himself.
+
+Later, in the bar, where a horn band play an old rock and roll air, the bear orders a stout, the duck a glass of punch. They drink.
+
+"This is better than a lot of dives," says the bear.
+
+The duck blows some bubbles in his punch. "I have to hit the head," he says.
+
+When he returns, he notices a dove at the next table.
+
+"What is your name?" asks the duck. "Are you single?"
+
+"Sorry," says the dove.
+
+"Let me get you a drink. What will you have?"
+
+"Well ... okay. A Bloody Mary."
+
+(The bear takes out her wallet.)
+
+A big old buck returns to find his date flirting with the duck. "You better back away, duck."
+
+"Nice horn," says the duck.
+
+"These are antlers," says the buck. "Dummy."
+
+"Be nice, Barry," says the dove.
+
+"That's an odd name," says the duck.
+
+"That's an odd face," says the buck.
+
+"Can't you find some sweet little does to harass?"
+
+"You better half hope I don't harass you," says the buck.
+
+"Don't be mean, Barry," says the dove.
+
+The buck -- for he can't bear to follow orders -- says, "Nice arms."
+
+"What is that supposed to mean?" says the duck. "These are wings, you dummy."
+
+The buck, snorting, brandishes his antlers and prepares to charge.
+
+The dove, a pacifist, leaves.
+
+The buck tears a table in half. The duck gives him a punch in the bottom; the bear gives him a hit in the face.
+
+The buck picks up a glass.
+
+"Watch out!" says the duck.
+
+The buck wings the glass; the bear is able to duck just in time. "That's close!"
+
+The duck arms himself with a stout club; the bear, despite her reservations, picks up a lead bar.
+
+They buffet the buck with blows. To get away, he dives out of a window.
+
+The window breaks; glass shatters; everyone observes him fall, one story, down to the ground, where his head strikes a rock.
+
+Bloody bubbles well out of a deep wound.
+
+The bear and duck flee into the park, and then, fearing a charge of assault and battery, flee the country.
+
+Later, the duck, snorting, remembers the time when that buck dove out of the window.
+
+But the bear, at bottom a pacifist, says, "I hope he didn't die."
+
+Meanwhile, far away, tears roll down the face of the dove.
+
+
+ar = 
+`a 04
+air 0A
+an 2Q
+and 0D
+antlers 3J
+are 0G
+arms 3T
+asks 11
+at 37
+away 3G
+back 1N
+bar 2O
+barry 3L
+battery 22
+be 1I
+bear 0K
+better 2E
+big 0V
+bloody 3C
+blows 2Z
+bottom 40
+breaks 2B
+bubbles 31
+buck 1F
+buffet 25
+but 1U
+can't 3P
+charge 24
+close 16
+club 0P
+country 0O
+course 13
+date 05
+dead 0E
+deep 0I
+die 2A
+dives 2Y
+do 0X
+does 2C
+don't 1C
+dove 36
+down 2J
+drink 2X
+duck 0L
+dummy 3K
+even 1D
+face 3O
+fall 08
+find 3E
+flee 
+follow 27
+for 2L
+forgot 18
+get 3B
+gives 3Y
+glass 2V
+golf 1O
+ground 0J
+half 3R
+harass 3Q
+have 0Z
+he 1B
+head 34
+her 3D
+him 3Z
+himself 2M
+his 32
+hit 33
+hope 3S
+horn 0S
+i 17
+in 06
+is 0B
+it 1R
+it's 1K
+just 1W
+later 2N
+lead 28
+leaves 0F
+let 2I
+likes 0R
+little 1T
+lot 0W
+me 1L
+mean 15
+my 19
+name 39
+nice 3H
+nine 0H
+not 1V
+observes 21
+odd 3N
+of 12
+okay 1J
+old 2R
+on 03
+one 1X
+orders 2T
+out 2H
+pacifist 3W
+park 0U
+picks 
+play 1M
+punch 2W
+remembers 23
+reservations 10
+returns 35
+rock 2S
+roll 29
+says 14
+she 0Q
+single 1E
+snorting 3V
+some 30
+sorry 2K
+story 01
+stout 2U
+strikes 2G
+sweet 0C
+table 38
+takes 02
+tears 3X
+than 2F
+that 1G
+that's 3M
+the 07
+then 26
+these 3I
+they 0T
+this 00
+time 1Q
+to 0M
+up 
+visit 0N
+wallet 1A
+watch 1Z
+we 0Y
+well 2D
+what 1P
+when 09
+where 2P
+who 1S
+will 1H
+window 
+wings 3U
+with 3F
+wound 20
+you 3A
+your 1Y`.split('\n').map(l => l.split(' ')).filter(l => l[1] == '')
+
+ar.filter(l => l[0].length == 4).forEach(l => {
+    console.log(l[0], substractStringsF(data73.split('').slice(0, 1000).join(''), `This story takes place on a certain date in the fall, when the air is sweet and dead leaves are nine deep on the ground.
+
+A bear and a duck decide to visit a country club.
+
+The bear drives; she likes to toot the horn.
+
+They park in the big lot.
+
+"Do we have reservations?" the duck asks.
+
+"Of course we do," says the bear.
+
+The mean, close, stingy duck says, "I forgot my wallet." He says, "I don't even have a single buck."
+
+"That will be okay," says the bear. "It's on me."
+
+They play the back nine of the golf course.
+
+"What time is it?" asks the duck, who likes golf a little, but not a lot.
+
+"It's just one."
+
+"Your watch is not wound," the duck observes.
+
+"The battery is dead," the bear remembers. "I forgot to charge it."
+
+They visit the buffet, then the casino.
+
+"Follow my lead," says the duck.
+
+They roll the die. The bear, who breaks even, does well: she does better than the duck, who 000000 0000. "What a `).split('').slice(-200).join(''))
+})
+
+000000 0000
